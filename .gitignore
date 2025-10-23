@@ -1,0 +1,32 @@
+# =========================
+# NetBeans + Java (Ant)
+# =========================
+
+# Build output
+/build/
+/dist/
+
+# NetBeans files
+/nbproject/private/
+/nbproject/build-impl.xml
+/nbproject/genfiles.properties
+
+# Logs
+*.log
+
+# OS and IDE junk
+.DS_Store
+Thumbs.db
+/.idea/
+/.vscode/
+/out/
+
+# Backup and temp files
+*~
+*.bak
+*.tmp
+*.swp
+/test/
+/build.xml
+/nbproject/
+/manifest.mf
